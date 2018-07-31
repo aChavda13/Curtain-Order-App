@@ -1,0 +1,18 @@
+/* Product View - START */
+.product_view {
+    margin-top: 2%;
+   // margin-bottom: 3%;
+}
+
+.curtain_view {
+  margin-top: 2%;
+ // margin-bottom: 5%;
+}
+
+@media (min-height: 320px) {
+  .ui.footer.form-page {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+}
